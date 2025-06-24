@@ -101,10 +101,6 @@ precision-estimator/
 
 Roadmap
 
-    Add a desktop GUI using Tkinter or PyQt
-
-    Enable exporting estimates as PDF and CSV files
-
     Add support for regional pricing adjustments and taxes
 
     Integrate material tracking and inventory management
